@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925051405000",
+    "firebase_url": "https://erental-b4fc4.firebaseio.com",
+    "project_id": "erental-b4fc4",
+    "storage_bucket": "erental-b4fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925051405000:android:5b92ec6315ad4f4ccedbfd",
+        "android_client_info": {
+          "package_name": "com.pnup.keziaprevia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925051405000-g0gpg9i4bkg4kuo3dv0u2knlldqqkr0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pnup.keziaprevia",
+            "certificate_hash": "c281d77d4fa220843ee184cb9688ff718fecc334"
+          }
+        },
+        {
+          "client_id": "925051405000-c9i1vj8ck8osent7mf1g2uitmqs1o4ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUZ9k7-wZAjSXaHyN2A8zQL4md5bXwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925051405000-c9i1vj8ck8osent7mf1g2uitmqs1o4ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
